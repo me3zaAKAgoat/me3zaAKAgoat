@@ -10,8 +10,6 @@ Hello, I am **Me3za**, an entry-level programmer that's eager to begin my journe
     <img height="22" alt="sass" src="./Skills Icons/sass.svg">
     <img height="22" alt="js" src="./Skills Icons/js.svg">.
 
-- Can write good scripts with <img height="22" alt="python" src="./Skills Icons/python.svg">.
-- Can write fast programs that solve complicated issues with <img height="22" alt="c" src="./Skills Icons/c.svg">.
 - Familiar with development in Node.js and using **npx**, **nvm** and **npm**.
 - Javascript libraries:
 
@@ -19,9 +17,11 @@ Hello, I am **Me3za**, an entry-level programmer that's eager to begin my journe
   | -------- | ------- | -------------- | ------- | -------- | ------------ | ---- |
   | mongoose | teemoJS | twitter-api-v2 | express | mongoose | bcrypt       | sass |
 
+- Well acquainted with <img height="22" alt="reactJS" src="./Skills Icons/git.svg">.
+- Can write fast programs that solve complicated issues with <img height="22" alt="c" src="./Skills Icons/c.svg">.
+- Can write good scripts with <img height="22" alt="python" src="./Skills Icons/python.svg">.
 - Familiar with **macOS**, **Ubuntu/Debian** and **Windows 10/11**.
 - Good knowledge of the **Unix** philosophy and systems.
-- Well acquainted with <img height="22" alt="reactJS" src="./Skills Icons/git.svg">.
 
 My best qualities / Reasons why you would want to work with me are the following:
 
