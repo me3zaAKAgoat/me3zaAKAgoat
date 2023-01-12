@@ -24,7 +24,7 @@ Hello, I am **me3za**, an entry-level programmer that's eager to begin my journe
 
 - Familiar with macOS, Ubuntu/Debian and Windows 10/11.
 - Good knowledge of the Unix philosophy and systems.
-- Well acquainted with Git. <img height="22" alt="reactJS" src="./Skills Icons/git.svg"></img>
+- Well acquainted with <img height="22" alt="reactJS" src="./Skills Icons/git.svg"></img>.
 
 My best qualities / Reasons why you would want to work with me are the following:
 
