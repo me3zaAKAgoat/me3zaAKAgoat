@@ -1,16 +1,14 @@
 <h1 align="center">Welcome to my profile.</h1>
 
-Hello, I am **me3za**, an entry-level programmer that's eager to begin my journey in the world of software development, as well as apply the knowledge I have gained through my education. I am proficient in the following domains:
+Hello, I am **Me3za**, an entry-level programmer that's eager to begin my journey in the world of software development, as well as apply the knowledge I have gained through my education. I am proficient in the following domains:
 
 - **Can write a full-stack MERN (MongoDB ExpressJS ReactJS Node) SPA**
 
   - <img height="22" alt="css3" src="./Skills Icons/css3.svg"></img>
-  <img height="22" alt="html5" src="./Skills Icons/html5.svg"></img>
-  <img height="22" alt="reactJS" src="./Skills Icons/reactjs.svg"></img>
-  <img height="22" alt="sass" src="./Skills Icons/sass.svg"></img>
-  <img height="22" alt="js" src="./Skills Icons/js.svg"></img>
-   <div align="center">
-  </div>
+    <img height="22" alt="html5" src="./Skills Icons/html5.svg"></img>
+    <img height="22" alt="reactJS" src="./Skills Icons/reactjs.svg"></img>
+    <img height="22" alt="sass" src="./Skills Icons/sass.svg"></img>
+    <img height="22" alt="js" src="./Skills Icons/js.svg"></img>.
 
 - Can write good scripts with <img height="22" alt="python" src="./Skills Icons/python.svg"></img>.
 - Can write fast programs that solve complicated issues with <img height="22" alt="c" src="./Skills Icons/c.svg"></img>.
@@ -22,8 +20,8 @@ Hello, I am **me3za**, an entry-level programmer that's eager to begin my journe
   | mongoose     | teemoJS | twitter-api-v2 | express | mongoose |
   | jsonwebtoken | cors    | bcrypt         | sass    |          |
 
-- Familiar with macOS, Ubuntu/Debian and Windows 10/11.
-- Good knowledge of the Unix philosophy and systems.
+- Familiar with **macOS**, **Ubuntu/Debian** and **Windows 10/11**.
+- Good knowledge of the **Unix** philosophy and systems.
 - Well acquainted with <img height="22" alt="reactJS" src="./Skills Icons/git.svg"></img>.
 
 My best qualities / Reasons why you would want to work with me are the following:
