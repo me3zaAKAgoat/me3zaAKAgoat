@@ -15,10 +15,9 @@ Hello, I am **Me3za**, an entry-level programmer that's eager to begin my journe
 - Familiar with development in Node.js and using **npx**, **nvm** and **npm**.
 - Javascript libraries:
 
-  | axios        | cron    | discord.js     | dotenv  | jimp     |
-  | ------------ | ------- | -------------- | ------- | -------- |
-  | mongoose     | teemoJS | twitter-api-v2 | express | mongoose |
-  | jsonwebtoken | cors    | bcrypt         | sass    |          |
+  | axios    | cron    | discord.js     | dotenv  | jimp     | jsonwebtoken | cors |
+  | -------- | ------- | -------------- | ------- | -------- | ------------ | ---- |
+  | mongoose | teemoJS | twitter-api-v2 | express | mongoose | bcrypt       | sass |
 
 - Familiar with **macOS**, **Ubuntu/Debian** and **Windows 10/11**.
 - Good knowledge of the **Unix** philosophy and systems.
