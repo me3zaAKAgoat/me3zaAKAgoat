@@ -37,13 +37,13 @@ My goal is to constantly improve and learn from experienced professionals.
 
 ## **Here's a snippet of the projects I'm working on right now.**
 
-**A productivity app:** [Learn more.](https://github.com/me3zaAKAgoat/dtb)
+> **A productivity app:** [Learn more.](https://github.com/me3zaAKAgoat/dtb)
+>
+> <img height="400" alt="Digital Task Board" src="./Screenshot_20230112_002638.png">
 
-<img height="400" alt="Digital Task Board" src="./Screenshot_20230112_002638.png">
-
-**An in-house discord bot:** [Learn more.](https://github.com/me3zaAKAgoat/Walter-Bot)
-
-<img height="300" alt="Digital Task Board" src="./Screenshot_20230112_003042.png">
+> **An in-house discord bot:** [Learn more.](https://github.com/me3zaAKAgoat/Walter-Bot)
+>
+> <img height="300" alt="Digital Task Board" src="./Screenshot_20230112_003042.png">
 
 ---
 
