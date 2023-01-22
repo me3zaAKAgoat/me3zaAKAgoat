@@ -1,6 +1,6 @@
 <h2 align="center">“An indomitable and inexorable spirit will overcome any obstacle, conquer any challenge, and achieve any goal.”.</h2>
 
-Hello, I am **Me3za**, I'm an entry-level programmer and I'm eager to begin my journey in the world of software development. In case you want to work with me, here the domains I'm most proficient on:
+Hello, I am **Me3za**, I'm an entry-level programmer and I'm eager to begin my journey in the world of software development. if you're interested in working with me, here are the domains I'm most proficient on:
 
 - **Can write a full-stack MERN (MongoDB ExpressJS ReactJS Node) SPA**
 
