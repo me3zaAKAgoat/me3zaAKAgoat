@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to my profile.</h1>
+<h1 align="center">"An indomitable and inexorable spirit will overcome any obstacle, conquer any challenge, and achieve any goal.".</h1>
 
-Hello, I am **Me3za**, an entry-level programmer that's eager to begin my journey in the world of software development, as well as apply the knowledge I have gained through my education. I am proficient in the following domains:
+Hello, I am **Me3za**, I'm an entry-level programmer and I'm eager to begin my journey in the world of software development. In case you want to work with me, here the domains I'm most proficient on:
 
 - **Can write a full-stack MERN (MongoDB ExpressJS ReactJS Node) SPA**
 
@@ -11,15 +11,16 @@ Hello, I am **Me3za**, an entry-level programmer that's eager to begin my journe
     <img height="22" alt="js" src="./Skills Icons/js.svg">.
 
 - Familiar with development in Node.js and using **npx**, **nvm** and **npm**.
-- Javascript libraries:
 
-  | axios        | cron        | discord.js         | dotenv      | jimp         | jsonwebtoken | cors     |
-  | ------------ | ----------- | ------------------ | ----------- | ------------ | ------------ | -------- |
-  | **mongoose** | **teemoJS** | **twitter-api-v2** | **express** | **mongoose** | **bcrypt**   | **sass** |
+  - Acquainted with these popular Javascript libraries:
 
-- Well acquainted with <img height="22" alt="reactJS" src="./Skills Icons/git.svg">.
-- Can write fast programs that solve complicated issues with <img height="22" alt="c" src="./Skills Icons/c.svg">.
-- Can write good scripts with <img height="22" alt="python" src="./Skills Icons/python.svg">.
+    | axios        | cron        | discord.js         | dotenv      | jimp         | jsonwebtoken | cors     |
+    | ------------ | ----------- | ------------------ | ----------- | ------------ | ------------ | -------- |
+    | **mongoose** | **teemoJS** | **twitter-api-v2** | **express** | **mongoose** | **bcrypt**   | **sass** |
+
+- Well acquainted with git <img height="22" alt="reactJS" src="./Skills Icons/git.svg">.
+- Can write fast programs that solve complicated issues with C <img height="22" alt="c" src="./Skills Icons/c.svg">.
+- Can write good scripts with Python <img height="22" alt="python" src="./Skills Icons/python.svg">.
 - Familiar with **macOS**, **Ubuntu/Debian** and **Windows 10/11**.
 - Good knowledge of the **Unix** philosophy and systems.
 
