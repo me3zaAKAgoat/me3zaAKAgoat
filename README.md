@@ -1,51 +1,53 @@
-<h2 align="center">“An indomitable and inexorable spirit will overcome any obstacle, conquer any challenge, and achieve any goal.”.</h2>
+<p align="left"><b><samp>「</samp></b></p>
+<p align="center">
+<samp>
+Hey, I'm <b>El Mehdi Choukri</b>, and I go by <b>Me3za</b> online.<br> I've been programming for about about four years now, and I've learned a lot <br>about different programming languages and technologies along the way. <br>I'm always open to teaming up on new projects, <br>so hit me up if you want to work on something cool together!
+</samp>
+</p>
+<p align="right"><b><samp>」</samp></b></p>
 
-Hello, I am **Me3za**, I'm an entry-level programmer and I'm eager to begin my journey in the world of software development. if you're interested in working with me, here are the domains I'm most proficient on:
+<samp>
 
-- **Can write a full-stack MERN (MongoDB ExpressJS ReactJS Node) SPA**
+<div align="center">
 
-  - <img height="22" alt="css3" src="./Skills Icons/css3.svg">
-    <img height="22" alt="html5" src="./Skills Icons/html5.svg">
-    <img height="22" alt="reactJS" src="./Skills Icons/reactjs.svg">
-    <img height="22" alt="sass" src="./Skills Icons/sass.svg">
-    <img height="22" alt="js" src="./Skills Icons/js.svg">.
+<h3>web technologies</h3>
+<div>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+</div>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 
-- Familiar with development in Node.js and using **npx**, **nvm** and **npm**.
+<h3>scripting</h3>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
-  - Acquainted with these popular Javascript libraries:
+<h3>Javascript libraries</h3>
 
-    | axios        | cron        | discord.js         | dotenv      | jimp         | jsonwebtoken | cors     |
-    | ------------ | ----------- | ------------------ | ----------- | ------------ | ------------ | -------- |
-    | **mongoose** | **teemoJS** | **twitter-api-v2** | **express** | **mongoose** | **bcrypt**   | **sass** |
+| axios        | cron        | discord.js  | dotenv       | jimp       | cors         |
+| ------------ | ----------- | ----------- | ------------ | ---------- | ------------ |
+| **mongoose** | **teemoJS** | **express** | **mongoose** | **bcrypt** | jsonwebtoken |
 
-- Well acquainted with git <img height="22" alt="reactJS" src="./Skills Icons/git.svg">.
-- Can write fast programs that solve complicated issues with C <img height="22" alt="c" src="./Skills Icons/c.svg">.
-- Can write good scripts with Python <img height="22" alt="python" src="./Skills Icons/python.svg">.
-- Familiar with **macOS**, **Ubuntu/Debian** and **Windows 10/11**.
-- Good knowledge of the **Unix** philosophy and systems.
+<h3>low level programming</h3>
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 
-My best qualities / Reasons why you would want to work with me are the following:
-
-- A remarkably good work ethic.
-- I critically think about all my developmental decisions.
-- I am very rigorous in how I write my code and how I document it.
-- Can speak/write very eloquent English and can speak/read/write French and Arabic.
-- Can communicate my ideas and thoughts very well. And can also work with most people with no issues.
-
-My goal is to constantly improve and learn from experienced professionals.
+<h3>Comfortable with development on Linux/MacOs</h3>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
 
 ---
 
-## **Here's a snippet of the projects I'm working on right now.**
+## **Here's a snippet of the project I'm currently working on.**
 
 > **A productivity app:** [Learn more.](https://github.com/me3zaAKAgoat/dtb)
 >
 > <img height="400" alt="Digital Task Board" src="./Screenshot_20230112_002638.png">
 
-> **An in-house discord bot:** [Learn more.](https://github.com/me3zaAKAgoat/Walter-Bot)
->
-> <img height="300" alt="Digital Task Board" src="./Screenshot_20230112_003042.png">
-
 ---
 
-# Contact me at medkrix1@gmail.com.
+## Contact me at medkrix1@gmail.com.
+
+</div>
+</samp>
