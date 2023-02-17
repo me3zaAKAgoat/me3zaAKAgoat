@@ -26,9 +26,9 @@ Hey, I'm <b>El Mehdi Choukri</b>, and I go by <b>Me3za</b> online.<br> I've been
 
 <h3>Javascript libraries</h3>
 
-| axios        | cron        | discord.js  | dotenv       | jimp       | cors         |
-| ------------ | ----------- | ----------- | ------------ | ---------- | ------------ |
-| **mongoose** | **teemoJS** | **express** | **mongoose** | **bcrypt** | jsonwebtoken |
+| axios        | cron        | discord.js  | dotenv       | jimp       | cors             |
+| ------------ | ----------- | ----------- | ------------ | ---------- | ---------------- |
+| **mongoose** | **teemoJS** | **express** | **mongoose** | **bcrypt** | **jsonwebtoken** |
 
 <h3>low level programming</h3>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
