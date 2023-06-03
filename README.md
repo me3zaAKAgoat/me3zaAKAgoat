@@ -43,7 +43,8 @@ Hey, I'm <b>El Mehdi Choukri</b>, and I go by <b>Me3za</b> online.<br> I've been
 
 **A productivity app:** [Learn more.](https://github.com/me3zaAKAgoat/dtb)
 
- <img height="400" alt="Digital Task Board" src="./dtb.png">
+ <img height="400" alt="Digital Task Board" src="dtb1.png">
+ <img height="400" alt="Digital Task Board" src="dtb2.png">
 
 ---
 
