@@ -35,6 +35,8 @@ Hey, I'm <b>El Mehdi Choukri</b>, and I go by <b>Me3za</b> online.<br> I've been
 <img src="./assets/vscode.svg" width=40>
 <img src="./assets/git.svg" width=40>
 <img src="./assets/docker.svg" width=40>
+<img src="./assets/bash.svg" width=40>
+<img src="./assets/obsidian.svg" width=40>
 
 ---
 
