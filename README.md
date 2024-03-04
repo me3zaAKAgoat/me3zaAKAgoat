@@ -10,23 +10,24 @@ Hey, I'm <b>El Mehdi Choukri</b>, and I go by <b>Me3za</b> online.<br> I've been
 
 <div align="center">
 
-<h3>Web Technologies</h3>
+<h3>Frameworks/Libraries</h3>
 <div>
+<img src="./assets/vite.svg" width=40>
 <img src="./assets/react.svg" width=40>
 <img src="./assets/tailwind.svg" width=40>
 <img src="./assets/sass.svg" width=40>
-<img src="./assets/html.svg" width=40>
 </div>
 <img src="./assets/mongodb.svg" width=40>
-<img src="./assets/vite.svg" width=40>
 <img src="./assets/node.svg" width=40>
-
-<h3>Bots/Scripting</h3>
-<img src="./assets/javascript.svg" width=40>
-<img src="./assets/py.svg" width=40>
 <img src="./assets/discordjs.svg" width=40>
 
-<h3>Low level programming</h3>
+<h3>Programming/Markup Languages</h3>
+<img src="./assets/typescript.svg" width=40>
+<img src="./assets/javascript.svg" width=40>
+<img src="./assets/py.svg" width=40>
+<img src="./assets/html.svg" width=40>
+
+<h3>Systems Level Programming</h3>
 <img src="./assets/c.svg" width=40>
 <img src="./assets/cpp.svg" width=40>
 
