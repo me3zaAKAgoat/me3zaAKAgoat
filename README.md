@@ -1,9 +1,22 @@
 <p align="left"><b><samp>「</samp></b></p>
 <p align="center">
-<samp>
-Hey, I'm <b>El Mehdi Choukri</b>, and I go by <b>Me3za</b> online.<br> I've been programming for about about four years now, and I've learned a lot <br>about different programming languages and technologies along the way. <br>I'm always open to teaming up on new projects, <br>so hit me up if you want to work on something cool together!
-</samp>
+<style>
+	.paragraph-container {
+		display: flex ;
+		flex-direction : column;
+		justify-content : center;
+		align-items : center;
+	}
+	.paragraph-content {
+		width: 80%;
+	}
+</style>
+<div class="paragraph-container">
+<p class="paragraph-content">
+Hey, I'm <b>Me3za</b>. Currently, I'm a student with about four years of programming experience. Over the years, I've gained proficiency in various programming languages and technologies. I specialize in building websites and Discord bots. Feel free to reach out if you're interested in working together on something cool!
 </p>
+</div>
+
 <p align="right"><b><samp>」</samp></b></p>
 
 <samp>
@@ -18,6 +31,7 @@ Hey, I'm <b>El Mehdi Choukri</b>, and I go by <b>Me3za</b> online.<br> I've been
 <img src="./assets/sass.svg" width=40>
 </div>
 <img src="./assets/mongodb.svg" width=40>
+<img src="./assets/postgres.svg" width=40>
 <img src="./assets/node.svg" width=40>
 <img src="./assets/discordjs.svg" width=40>
 
@@ -26,6 +40,7 @@ Hey, I'm <b>El Mehdi Choukri</b>, and I go by <b>Me3za</b> online.<br> I've been
 <img src="./assets/javascript.svg" width=40>
 <img src="./assets/py.svg" width=40>
 <img src="./assets/html.svg" width=40>
+<img src="./assets/css.svg" width=40>
 
 <h3>Systems Level Programming</h3>
 <img src="./assets/c.svg" width=40>
@@ -41,11 +56,12 @@ Hey, I'm <b>El Mehdi Choukri</b>, and I go by <b>Me3za</b> online.<br> I've been
 
 ---
 
-## **A productivity app I'm currently working on:** [pogtracker.live](http://pogtracker.live)
+## **Currently working on:** http://github.com/me3zaAKAgoat/dtb
 
 ---
 
 ## Contact me at medkrix1@gmail.com.
+
 
 </div>
 </samp>
