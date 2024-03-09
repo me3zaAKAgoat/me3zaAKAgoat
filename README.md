@@ -1,3 +1,5 @@
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medkrix1@gmail.com)
+
 <h3>Hey there</h3>
 I'm <b>Me3za</b>. Currently, I'm a student with about four years of programming experience. I specialize in building websites and Discord bots. Feel free to reach out if you're interested in working together on something cool!
 <h3>Frameworks/Libraries</h3>
