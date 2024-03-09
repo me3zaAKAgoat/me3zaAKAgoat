@@ -1,28 +1,5 @@
-<p align="left"><b><samp>「</samp></b></p>
-<p align="center">
-<style>
-	.paragraph-container {
-		display: flex ;
-		flex-direction : column;
-		justify-content : center;
-		align-items : center;
-	}
-	.paragraph-content {
-		width: 80%;
-	}
-</style>
-<div class="paragraph-container">
-<p class="paragraph-content">
-Hey, I'm <b>Me3za</b>. Currently, I'm a student with about four years of programming experience. Over the years, I've gained proficiency in various programming languages and technologies. I specialize in building websites and Discord bots. Feel free to reach out if you're interested in working together on something cool!
-</p>
-</div>
-
-<p align="right"><b><samp>」</samp></b></p>
-
-<samp>
-
-<div align="center">
-
+<h3>Hey there</h3>
+I'm <b>Me3za</b>. Currently, I'm a student with about four years of programming experience. I specialize in building websites and Discord bots. Feel free to reach out if you're interested in working together on something cool!
 <h3>Frameworks/Libraries</h3>
 <div>
 <img src="./assets/vite.svg" width=40>
@@ -62,6 +39,4 @@ Hey, I'm <b>Me3za</b>. Currently, I'm a student with about four years of program
 
 ## Contact me at medkrix1@gmail.com.
 
-
-</div>
 </samp>
