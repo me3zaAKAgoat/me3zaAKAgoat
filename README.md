@@ -1,7 +1,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medkrix1@gmail.com)
 
 ## Hey there
-I'm <b>Me3za</b>. Currently, I'm a student with about four years of programming experience. I specialize in building websites and Discord bots. Feel free to reach out if you're interested in working together on something cool!
+I'm <b>Me3za</b>. Currently, I'm a computer science student with about four years of programming experience. I specialize in building websites and Discord bots. Feel free to reach out if you're interested in working together on something cool!
 
 #### Frameworks/Libraries
 <div>
