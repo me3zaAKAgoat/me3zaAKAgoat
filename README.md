@@ -47,8 +47,4 @@ I'm <b>Me3za</b>. Currently, I'm a computer science student with about four year
 
 ### **Currently working on:** http://github.com/me3zaAKAgoat/dtb
 
----
-
-### Contact me at medkrix1@gmail.com.
-
 </samp>
