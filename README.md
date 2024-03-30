@@ -1,17 +1,6 @@
-<style>
-	.img-border {
-		border : 2px solid gray;
-		border-radius : 10px;
-	}
-	.img-border > img {
-		border-radius : 10px;
-	}
-	img {
-		border-radius : 10px;
-	}
-</style>
-
+<div style="border-radius : 10px">
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medkrix1@gmail.com)
+</div>
 
 ## Hey there
 
@@ -62,8 +51,8 @@ I'm <b>Me3za</b>. Currently, I'm a computer science student with about four year
 
 ### **Currently working on:** http://github.com/me3zaAKAgoat/dtb
 
-<div class="img-border">
-<img src="./assets/dtb.png" alt="dtb" />
+<div style="border: 2px solid gray; border-radius: 10px;">
+  <img src="./assets/dtb.png" alt="dtb" style="border-radius: 10px;">
 </div>
 
 </samp>
