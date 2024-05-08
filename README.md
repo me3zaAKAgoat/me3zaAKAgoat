@@ -8,9 +8,11 @@ I'm <b>Me3za</b>. Currently, I'm a computer science student with about four year
 #### Frameworks/Libraries
 
 <div>
-<img src="./assets/vite.svg" width=33>
 <img src="./assets/react.svg" width=33>
+<img src="./assets/nextjs.svg" width=33>
+<img src="./assets/django.svg" width=33>
 <img src="./assets/tailwind.svg" width=33>
+<img src="./assets/vite.svg" width=33>
 <img src="./assets/sass.svg" width=33>
 <img src="./assets/mongodb.svg" width=33>
 <img src="./assets/postgres.svg" width=33>
@@ -49,7 +51,6 @@ I'm <b>Me3za</b>. Currently, I'm a computer science student with about four year
 ---
 
 ### **Currently working on:** http://github.com/me3zaAKAgoat/dtb
-
 
   <img src="./assets/dtb.png" alt="dtb">
 
