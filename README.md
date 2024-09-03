@@ -48,10 +48,3 @@ I'm <b>Me3za</b>. Currently, I'm a computer science student with about four year
 <img src="./assets/obsidian.svg" width=33>
 </div>
 
----
-
-### **Currently working on:** http://github.com/me3zaAKAgoat/dtb
-
-  <img src="./assets/dtb.png" alt="dtb">
-
-</samp>
