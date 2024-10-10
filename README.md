@@ -3,7 +3,7 @@
 
 ## Hey there
 
-I'm <b>Me3za</b>. Currently, I'm a Fullstack Developper with 5 years of programming experience. I specialize in building websites and Discord bots. Feel free to reach out if you're interested in working together on something cool!
+I'm <b>Me3za</b>. Currently, I'm a Fullstack Developer with 5 years of programming experience. I specialize in building websites and Discord bots. Feel free to reach out if you're interested in working together on something cool!
 
 #### Frameworks/Libraries
 
