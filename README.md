@@ -1,7 +1,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmehdichoukri02@gmail.com)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/me3za)
 
-I'm <b>Me3za</b>. Currently, I'm a Fullstack Developer with 5 years of programming experience. I specialize in building websites and Discord bots. Feel free to reach out if you're interested in working together on something cool!
+<b>Me3za</b>. Currently, I'm a Fullstack Software Engineer with 6 years of programming experience.
 
 #### Frameworks/Libraries
 
