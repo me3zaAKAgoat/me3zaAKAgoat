@@ -1,7 +1,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmehdichoukri02@gmail.com)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/me3za)
 
-Full Stack Software Engineer building high-scale web applications serving 400K+ users. 1337 (42 Network) graduate. TypeScript, React, and Node.js focused, with experience in both frontend and backend development.
+Full Stack Software Engineer building high-scale web applications. 1337 (42 Network) graduate. TypeScript, React, and Node.js focused, skilled in blazingly fast responsive frontend development and a modular approach to scalable secure backend development.
 
 #### Frameworks/Libraries
 
