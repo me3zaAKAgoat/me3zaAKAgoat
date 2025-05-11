@@ -3,7 +3,7 @@
 
 ## Hey
 
-Full Stack Software Engineer building high-scale web applications. 1337 (42 Network) graduate. TypeScript, React, and Node.js focused, skilled in blazingly fast responsive frontend development and a modular approach to scalable secure backend development.
+I'll understand what you mean and I'll put it into code.
 
 ### Frontend
 
